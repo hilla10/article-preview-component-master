@@ -177,6 +177,25 @@ ul li a:hover svg path {
     fill: var(--Grayish-Blue);
 }
 
+/******** Footer ********/
+.footer {
+    width: 100%;
+    padding: 2.5rem;
+    text-align: center;
+    margin-top: 20px;
+    background: #041344;
+    color:var(--white);
+}
+
+a {
+    color: var(--Desaturated-Dark-Blue);
+    transition: 0.4s ease-in-out;
+}
+
+a:hover {
+    color: var(--Grayish-Blue);
+}
+
 /************* Medea Query *************/
 
 /******** medium mobile ********/
